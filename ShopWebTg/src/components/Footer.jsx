@@ -2,7 +2,7 @@ import React from 'react';
 import LocalMallIcon from '@mui/icons-material/LocalMall';
 import PersonIcon from '@mui/icons-material/Person';
 
-//
+
 export default function Footer({active}){
     
     return(
